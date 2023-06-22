@@ -137,6 +137,6 @@ roboflow:
   url: https://monsite.fr
   version: 1
   workspace: brad-dwyer
-test: ../test/images
-train: Fruitsflow/train/images
-val: Fruitsflow/val/images
+test: /test/images
+train: train/images
+val: val/images
