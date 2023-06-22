@@ -1,0 +1,142 @@
+names:
+- Apple Braeburn
+- Apple Crimson Snow
+- Apple Golden 1
+- Apple Golden 2
+- Apple Golden 3
+- Apple Granny Smith
+- Apple Pink Lady
+- Apple Red 1
+- Apple Red 2
+- Apple Red 3
+- Apple Red Delicious
+- Apple Red Yellow 1
+- Apple Red Yellow 2
+- Apricot
+- Avocado ripe
+- Avocado
+- Banana Lady Finger
+- Banana Red
+- Banana
+- Beetroot
+- Blueberry
+- Cactus fruit
+- Cantaloupe 1
+- Cantaloupe 2
+- Carambula
+- Cauliflower
+- Cherry 1
+- Cherry 2
+- Cherry Rainier
+- Cherry Wax Black
+- Cherry Wax Red
+- Cherry Wax Yellow
+- Chestnut
+- Clementine
+- Cocos
+- Corn Husk
+- Corn
+- Cucumber Ripe 2
+- Cucumber Ripe
+- Dates
+- Eggplant
+- Fig
+- Ginger Root
+- Granadilla
+- Grape Blue
+- Grape Pink
+- Grape White 2
+- Grape White 3
+- Grape White 4
+- Grape White
+- Grapefruit Pink
+- Grapefruit White
+- Guava
+- Hazelnut
+- Huckleberry
+- Kaki
+- Kiwi
+- Kohlrabi
+- Kumquats
+- Lemon Meyer
+- Lemon
+- Limes
+- Lychee
+- Mandarine
+- Mango Red
+- Mango
+- Mangostan
+- Maracuja
+- Melon Piel de Sapo
+- Mulberry
+- Nectarine Flat
+- Nectarine
+- Nut Forest
+- Nut Pecan
+- Onion Red Peeled
+- Onion Red
+- Onion White
+- Orange
+- Papaya
+- Passion Fruit
+- Peach 2
+- Peach Flat
+- Peach
+- Pear 2
+- Pear Abate
+- Pear Forelle
+- Pear Kaiser
+- Pear Monster
+- Pear Red
+- Pear Stone
+- Pear Williams
+- Pear
+- Pepino
+- Pepper Green
+- Pepper Orange
+- Pepper Red
+- Pepper Yellow
+- Physalis with Husk
+- Physalis
+- Pineapple Mini
+- Pineapple
+- Pitahaya Red
+- Plum 2
+- Plum 3
+- Plum
+- Pomegranate
+- Pomelo Sweetie
+- Potato Red Washed
+- Potato Red
+- Potato Sweet
+- Potato White
+- Quince
+- Rambutan
+- Raspberry
+- Redcurrant
+- Salak
+- Strawberry Wedge
+- Strawberry
+- Tamarillo
+- Tangelo
+- Tomato 1
+- Tomato 2
+- Tomato 3
+- Tomato 4
+- Tomato Cherry Red
+- Tomato Heart
+- Tomato Maroon
+- Tomato Yellow
+- Tomato not Ripened
+- Walnut
+- Watermelon
+nc: 131
+roboflow:
+  license: CC BY 4.0
+  project: antiwaste
+  url: https://monsite.fr
+  version: 1
+  workspace: brad-dwyer
+test: ../test/images
+train: Fruitsflow/train/images
+val: Fruitsflow/val/images
