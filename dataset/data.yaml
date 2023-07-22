@@ -1,135 +1,135 @@
 names:
-- Apple Braeburn
+- Physalis
+- Nut Pecan
+- Onion White
+- Tomato 4
+- Potato Red Washed
+- Peach Flat
+- Cocos
+- Granadilla
+- Peach
+- Guava
+- Kohlrabi
+- Tomato Cherry Red
+- Pear Kaiser
+- Pear Red
+- Pomegranate
+- Cucumber Ripe
+- Strawberry Wedge
+- Plum 2
+- Apple Red 1
+- Blueberry
+- Cherry Wax Red
+- Tomato not Ripened
+- Cherry Wax Yellow
+- Limes
+- Apple Red Yellow 1
+- Cherry Rainier
+- Physalis with Husk
+- Banana
+- Potato Sweet
+- Maracuja
+- Pear Stone
+- Tangelo
+- Tomato 2
+- Strawberry
+- Hazelnut
+- Melon Piel de Sapo
 - Apple Crimson Snow
+- Pear 2
+- Pepper Yellow
+- Mandarine
+- Lemon Meyer
+- Carambula
+- Banana Red
+- Grape White
+- Cauliflower
+- Kumquats
+- Corn
+- Nectarine
+- Quince
+- Tomato Heart
 - Apple Golden 1
-- Apple Golden 2
+- Passion Fruit
+- Pomelo Sweetie
+- Cantaloupe 2
+- Fig
+- Grape Blue
 - Apple Golden 3
+- Kaki
+- Chestnut
+- Pineapple Mini
+- Tomato Maroon
+- Potato White
+- Pear Monster
+- Mulberry
+- Corn Husk
+- Pepper Red
+- Cherry 2
+- Pepino
+- Huckleberry
+- Apricot
+- Beetroot
+- Grape Pink
+- Pineapple
+- Plum
+- Apple Red 2
+- Tamarillo
+- Apple Golden 2
 - Apple Granny Smith
 - Apple Pink Lady
-- Apple Red 1
-- Apple Red 2
-- Apple Red 3
-- Apple Red Delicious
-- Apple Red Yellow 1
-- Apple Red Yellow 2
-- Apricot
-- Avocado ripe
-- Avocado
-- Banana Lady Finger
-- Banana Red
-- Banana
-- Beetroot
-- Blueberry
-- Cactus fruit
-- Cantaloupe 1
-- Cantaloupe 2
-- Carambula
-- Cauliflower
-- Cherry 1
-- Cherry 2
-- Cherry Rainier
-- Cherry Wax Black
-- Cherry Wax Red
-- Cherry Wax Yellow
-- Chestnut
-- Clementine
-- Cocos
-- Corn Husk
-- Corn
-- Cucumber Ripe 2
-- Cucumber Ripe
-- Dates
-- Eggplant
-- Fig
-- Ginger Root
-- Granadilla
-- Grape Blue
-- Grape Pink
-- Grape White 2
-- Grape White 3
-- Grape White 4
-- Grape White
-- Grapefruit Pink
-- Grapefruit White
-- Guava
-- Hazelnut
-- Huckleberry
-- Kaki
-- Kiwi
-- Kohlrabi
-- Kumquats
-- Lemon Meyer
-- Lemon
-- Limes
-- Lychee
-- Mandarine
-- Mango Red
-- Mango
-- Mangostan
-- Maracuja
-- Melon Piel de Sapo
-- Mulberry
-- Nectarine Flat
-- Nectarine
 - Nut Forest
-- Nut Pecan
-- Onion Red Peeled
-- Onion Red
-- Onion White
-- Orange
-- Papaya
-- Passion Fruit
-- Peach 2
-- Peach Flat
-- Peach
-- Pear 2
-- Pear Abate
-- Pear Forelle
-- Pear Kaiser
-- Pear Monster
-- Pear Red
-- Pear Stone
-- Pear Williams
-- Pear
-- Pepino
-- Pepper Green
-- Pepper Orange
-- Pepper Red
-- Pepper Yellow
-- Physalis with Husk
-- Physalis
-- Pineapple Mini
-- Pineapple
+- Avocado ripe
+- Ginger Root
+- Lemon
 - Pitahaya Red
-- Plum 2
-- Plum 3
-- Plum
-- Pomegranate
-- Pomelo Sweetie
-- Potato Red Washed
-- Potato Red
-- Potato Sweet
-- Potato White
-- Quince
-- Rambutan
-- Raspberry
-- Redcurrant
-- Salak
-- Strawberry Wedge
-- Strawberry
-- Tamarillo
-- Tangelo
+- Apple Braeburn
+- Apple Red Yellow 2
 - Tomato 1
-- Tomato 2
+- Pear Abate
+- Cactus fruit
+- Rambutan
+- Plum 3
+- Onion Red Peeled
+- Grape White 3
+- Grapefruit Pink
+- Grape White 2
+- Pear Forelle
+- Banana Lady Finger
+- Kiwi
+- Pepper Orange
+- Cherry Wax Black
+- Papaya
 - Tomato 3
-- Tomato 4
-- Tomato Cherry Red
-- Tomato Heart
-- Tomato Maroon
+- Pear
+- Nectarine Flat
 - Tomato Yellow
-- Tomato not Ripened
+- Mango Red
+- Pepper Green
+- Lychee
+- Mangostan
+- Apple Red Delicious
+- Potato Red
+- Orange
+- Grape White 4
 - Walnut
+- Raspberry
+- Cucumber Ripe 2
+- Avocado
+- Grapefruit White
+- Cantaloupe 1
+- Salak
+- Pear Williams
+- Peach 2
+- Dates
+- Clementine
+- Cherry 1
+- Redcurrant
+- Onion Red
+- Mango
+- Eggplant
 - Watermelon
+- Apple Red 3
 nc: 131
 roboflow:
   license: CC BY 4.0
